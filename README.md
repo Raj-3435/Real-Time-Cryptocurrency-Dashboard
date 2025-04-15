@@ -2,9 +2,6 @@
 
 A visually stunning, real-time cryptocurrency dashboard built entirely in Microsoft Excel. Designed with a modern neon theme, this project helps you track major crypto metrics like market cap, volume, 24h price change, and more — all dynamically.
 
-# 💹 Real-time Cryptocurrency Dashboard (Excel)
-
-A visually stunning, real-time cryptocurrency dashboard built entirely in Microsoft Excel. Designed with a modern neon theme, this project helps you track major crypto metrics like market cap, volume, 24h price change, and more — all dynamically.
 
 ![image](https://github.com/user-attachments/assets/780fbfa1-f038-4c43-bbc7-1be5ba73b598)
 
